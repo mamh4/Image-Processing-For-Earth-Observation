@@ -1,0 +1,18 @@
+# Labels from Swiss Topographic Landscape Model (TLM) from Swisstopo
+0:background     
+1:agricultural area
+2:building    
+3:bush forest
+4:forest    
+5:glacier
+6:lake    
+7:pedestrian path
+8:public leisure area    
+9:railways
+10:river    
+11:road
+12:rocks    
+13:sparse forest
+14:sparse rocks    
+15:swamps
+16:vineyards

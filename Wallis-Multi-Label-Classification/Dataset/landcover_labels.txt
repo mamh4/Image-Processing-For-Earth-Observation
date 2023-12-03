@@ -1,0 +1,29 @@
+#Labels for Land cover (NOLC04) - Federal Statistical Office
+11 Consolidated surfaces
+12 Buildings
+13 Greenhouses
+14 Gardens with border and patch structures
+15 Lawns
+16 Trees in artificial areas
+17 Mix of small structures
+21 Grass and herb vegetation
+31 Shrubs
+32 Brush meadows
+33 Short-stem fruit trees
+34 Vines
+35 Permanent garden plants and brush crops
+40 Tree vegetation 
+41 Closed forest
+42 Forest edges
+43 Forest strips
+44 Open forest
+45 Brush forest
+46 Linear woods
+47 Clusters of trees
+50 Bare land 51 Solid rock
+52 Granular soil
+53 Rocky areas
+60 Watery areas 61 Water
+62 Glacier, perpetual snow
+63 Wetlands
+64 Reedy marshes
